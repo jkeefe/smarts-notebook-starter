@@ -1,0 +1,5 @@
+- Make a new newsdev repo using Github
+- Clone it into `newsdev`
+- `cd` to `local-tinker`
+- run `rsync -av smarts-notebook-starter/ ../newsdev/NEW_PROJECT_REPO/ --exclude .git`
+- do a happy dance
